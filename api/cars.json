@@ -1,0 +1,49 @@
+{
+	"data": [
+		{
+			"title": "1970 Oldsmobile 442 W-30",
+			"url": "https://en.wikipedia.org/wiki/Oldsmobile_442",
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/1971_Oldsmobile_442_%282616277147%29.jpg/280px-1971_Oldsmobile_442_%282616277147%29.jpg"
+		},
+		{
+			"title": "1974 Pontiac Firebird Trans Am SD455",
+			"url": "https://en.wikipedia.org/wiki/Pontiac_Firebird",
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Trans_Am_Family.jpg/280px-Trans_Am_Family.jpg"
+		},
+		{
+			"title": "1970 Buick GSX Stage 1",
+			"url": "https://en.wikipedia.org/wiki/Buick_Gran_Sport",
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/1965_Buick_Gran_Sport_%2828974333863%29.jpg/275px-1965_Buick_Gran_Sport_%2828974333863%29.jpg"
+		},
+		{
+			"title": "1970 Chevrolet Chevelle SS 454 LS6",
+			"url": "https://ru.wikipedia.org/wiki/Chevrolet_Chevelle",
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/1968_Chevelle_SS396.jpg/305px-1968_Chevelle_SS396.jpg"
+		},		
+		{
+			"title": "1970 Pontiac GTO Judge Ram Air IV",
+			"url": "https://ru.wikipedia.org/wiki/Pontiac_GTO",
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dark_green_1968_Pontiac_GTO.jpg/305px-Dark_green_1968_Pontiac_GTO.jpg"
+		},
+		{
+			"title": "1968 Ford Mustang GT500KR",
+			"url": "https://en.wikipedia.org/wiki/Shelby_Mustang",
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/1968_Shelby_Mustang_GT350_Fastback_%2826495508560%29.jpg/280px-1968_Shelby_Mustang_GT350_Fastback_%2826495508560%29.jpg"
+		},		
+		{
+			"title": "1969 Dodge Charger Daytona Hemi",
+			"url": "https://en.wikipedia.org/wiki/Dodge_Charger_Daytona",
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/1969_Dodge_Charger_Daytona_%2813419983895%29.jpg/280px-1969_Dodge_Charger_Daytona_%2813419983895%29.jpg"
+		},
+		{
+			"title": "1971 Plymouth Hemi â€™Cuda",
+			"url": "https://en.wikipedia.org/wiki/Plymouth_Barracuda",
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%2770_Plymouth_Barracuda_%28%2711_Auto_classique_VAQ_Mont_St-Hilaire%29.JPG/280px-%2770_Plymouth_Barracuda_%28%2711_Auto_classique_VAQ_Mont_St-Hilaire%29.JPG"
+		},
+		{
+			"title": "1969 Chevrolet Camaro ZL1",
+			"url": "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)",
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Chevrolet_Camaro_RS_327_1968.jpg/280px-Chevrolet_Camaro_RS_327_1968.jpg"
+		}
+	]
+}
