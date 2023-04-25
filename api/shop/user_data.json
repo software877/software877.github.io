@@ -1,5 +1,5 @@
 {
-    name: "Arthur",
-    last_name: "Novikov",
-    age: 30
+    "name": "Arthur",
+    "last_name": "Novikov",
+    "age": 30
 }
