@@ -1,0 +1,21 @@
+[
+    {
+        "category_id": 1,
+        "title": "Телевизор",
+        "price": 500,
+        "discount": 50
+    },    
+    {
+        "category_id": 2,
+        "title": "Телефон",
+        "price": 100,
+        "discount": 50
+    },
+    {
+        "category_id": 3,
+        "title": "Холодильник",
+        "price": 1000,
+        "discount": 50
+    }
+
+]
