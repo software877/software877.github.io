@@ -1,0 +1,45 @@
+<html>
+
+<head>
+    <link href="../libs/bootstrap/css/bootstrap.min.css" rel="stylesheet" 
+    <script src="../libs/bootstrap/js/bootstrap.bundle.min.js" ></script>
+</head>
+
+    <body>
+        <p id ="p">This is some text</p>
+        <br>
+        <p id ="user"></p>
+
+        <button type="button" onclick="testClick()" class="btn btn-primary">Primary</button>
+
+    </body>
+
+</html>
+
+<script>
+
+
+    function testClick() {
+
+        console.log("The button was clicked!!!");
+
+    }
+
+    console.log("This is test script!!!");
+    var t = document.getElementById("p");
+    var y = document.createTextNode("This just got added");
+
+    t.appendChild(y);
+
+    function get(name){
+    if(name=(new RegExp('[?&]'+encodeURIComponent(name)+'=([^&]*)')).exec(location.search))
+        return decodeURIComponent(name[1]);
+    }
+
+    let name = get('foo');
+    console.log(name);
+    var t1 = document.getElementById("user");
+    var y1 = document.createTextNode(name);
+
+    t1.appendChild(y1);
+</script>
