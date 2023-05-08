@@ -1,0 +1,20 @@
+{
+    "promo_link": {
+        "link": "https://localhost",
+        "title": "Current Link"
+    },
+    "promo_code": 962526,
+    "description": {
+        "PromoTextHeader1": "Know someone who could benefit from using Services?",
+        "PromoText1": "test text",
+        "PromoTextHeader2": "What is Promotional Link?",
+        "PromoText2": "Promotion Link is simple"
+    },
+    "PresetPromos": "Use your Promotion Link",
+    "PromotionPageTitle": "Promotion Link",
+    "PromoCode": {
+        "new_code": "New Code",
+        "current_code": "Current Code",
+        "update_code": "Apply Code"
+    }
+}

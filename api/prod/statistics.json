@@ -1,0 +1,745 @@
+{
+    "dates": {
+        "d1": {
+            "date": "2023-05-02 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "Etc/GMT+6"
+        },
+        "d2": {
+            "date": "2023-05-03 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "Etc/GMT+6"
+        },
+        "d3": {
+            "date": "2023-05-04 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "Etc/GMT+6"
+        },
+        "d4": {
+            "date": "2023-05-05 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "Etc/GMT+6"
+        },
+        "d5": {
+            "date": "2023-05-06 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "Etc/GMT+6"
+        },
+        "d6": {
+            "date": "2023-05-07 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "Etc/GMT+6"
+        },
+        "d7": {
+            "date": "2023-05-08 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "Etc/GMT+6"
+        }
+    },
+    "data": [
+        {
+            "order": 0,
+            "pad": 0,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "icash_earned",
+            "title": "Total iCash Earned (Commissions/Bonuses + iPayments)",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 1,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "comms_earned",
+            "title": "Total Commissions and Bonuses",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 2,
+            "pad": 2,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "comms_l1_earned",
+            "title": "Direct Sale Commission",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 3,
+            "pad": 3,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "fast_icash",
+            "title": "New Customer Bonus",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 4,
+            "pad": 3,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "sales_volume_bonus",
+            "title": "Sales Volume Bonus",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 5,
+            "pad": 3,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "special_direct_sales_bonus",
+            "title": "Special Direct Sales Bonus",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 6,
+            "pad": 2,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "team_sales_bonus",
+            "title": "Other Sales Bonuses",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 7,
+            "pad": 3,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "adnet_team_bonus",
+            "title": "AdNet Sales Bonuses",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 8,
+            "pad": 3,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "abeyworld_team_bonus",
+            "title": "ABEYWORLD Sales Bonuses",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 9,
+            "pad": 3,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "mining_team_bonus",
+            "title": "CMLX Sales Bonuses",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 10,
+            "pad": 3,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "game_commissions",
+            "title": "Game Sales Bonuses",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 11,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "adnet_ipayments_earned",
+            "title": "AdNet iPayments",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 12,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "abeyworld_ipayments_earned",
+            "title": "ABEYWORLD iPayments",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 13,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "mining_ipayments_earned",
+            "title": "CMLX iPayments",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 14,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "game_ipayments_earned",
+            "title": "Game iPayments",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 15,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "rebates_earned",
+            "title": "Discover iPayments",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 16,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "denied_transfers",
+            "title": "Declined Cash Out",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 17,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": "$0.00"
+            },
+            "tag": "icash_earned_others",
+            "title": "Others",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": 0
+        },
+        {
+            "order": 18,
+            "pad": 0,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "icash_spent",
+            "title": "Total iCash Spent (Purchases + Cash Out)",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 19,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "topup_adnet_repurchase",
+            "title": "AdNet Top Up",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 20,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "topup_abeyworld_repurchase",
+            "title": "ABEYWORLD Top Up",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 21,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "topup_mining_repurchase",
+            "title": "CMLX Top Up",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 22,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "topup_repurchase",
+            "title": "Game Top Up",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 23,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "cashouts",
+            "title": "Cash Out",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 24,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "product_purchases",
+            "title": "Product Purchases",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 25,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "returned_commissions",
+            "title": "Commissions/Bonuses Chargebacks",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 26,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": "$0.00"
+            },
+            "tag": "icash_spent_others",
+            "title": "Others",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": 0
+        },
+        {
+            "order": 27,
+            "pad": 0,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "icash_received",
+            "title": "Total iCash Received (Total Earned - Total Spent)",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 28,
+            "pad": 0,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "empty",
+            "title": "",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 29,
+            "pad": 0,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "icash_available",
+            "title": "iCash Balance (Available + Pending)",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 30,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "daily_pending",
+            "title": "iCash Balance Pending",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        },
+        {
+            "order": 31,
+            "pad": 1,
+            "format": {
+                "d1": "$0.00",
+                "d2": "$0.00",
+                "d3": "$0.00",
+                "d4": "$0.00",
+                "d5": "$0.00",
+                "d6": "$0.00",
+                "d7": null
+            },
+            "tag": "icash_avail",
+            "title": "iCash Balance Available",
+            "d1": 0,
+            "d2": 0,
+            "d3": 0,
+            "d4": 0,
+            "d5": 0,
+            "d6": 0,
+            "d7": null
+        }
+    ]
+}
