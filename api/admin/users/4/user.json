@@ -1,0 +1,9 @@
+{
+    "id":4,
+    "name": "Васнецов",
+    "age": 23,
+    "job_title": "Дизайнер",
+    "salary": 30000,
+    "tools": ["photoshop", "paint"],
+    "previous_jobs": ["oracle", "microsoft"]
+}

@@ -1,0 +1,9 @@
+{
+    "id":2,
+    "name": "Петров",
+    "age": 34,
+    "job_title": "Qa инженер",
+    "salary": 100000,
+    "tools": ["selenium", "postman", "fiddler", "jmeter"],
+    "previous_jobs": ["broadvision", "hp"]
+}

@@ -1,0 +1,9 @@
+{
+    "id":3,
+    "name": "Сидоров",
+    "age": 23,
+    "job_title": "Программист",
+    "salary": 120000,
+    "tools": ["java", "kotlin", "git"],
+    "previous_jobs": ["oracle", "google"]
+}

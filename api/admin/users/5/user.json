@@ -1,0 +1,9 @@
+{
+    "id":5,
+    "name": "Лебедев",
+    "age": 42,
+    "job_title": "Программист",
+    "salary": 50000,
+    "tools": ["c++", "javascript"],
+    "previous_jobs": ["yandex", "mail"]
+}

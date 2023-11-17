@@ -1,0 +1,9 @@
+{
+    "id":6,
+    "name": "Семенов",
+    "age": 35,
+    "job_title": "Программист",
+    "salary": 100000,
+    "tools": ["C#", "C++"],
+    "previous_jobs": ["yandex", "google"]
+}
