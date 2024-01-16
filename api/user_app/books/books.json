@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "genre_id": 1,
+        "title": "Test book",
+        "description": "This is test book"
+    },
+    {
+        "id": 2,
+        "genre_id": 2,
+        "title": "Test2 book",
+        "description": "This is test book"
+    },
+    {
+        "id": 3,
+        "genre_id": 2,
+        "title": "Test3 book",
+        "description": "This is test book"
+    }
+]

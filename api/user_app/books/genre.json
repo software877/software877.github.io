@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Horror",
+        "description": "This is test description"
+    },
+    {
+        "id": 2,
+        "title": "Fantasy",
+        "description": "This is test description"
+    },
+    {
+        "id": 3,
+        "title": "Sci-Fi",
+        "description": "This is test description"
+    }
+]
+
